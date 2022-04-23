@@ -274,8 +274,24 @@
           "name": "BAMBOO BAG-TYPE",
           "image": "https://images.unsplash.com/photo-1554342872-034a06541bad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGJhZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
           "price": 2500000,
-          "qty": 1,
+          "qty": 2,
           "stock": 13
+        },
+        {
+          "id": 2,
+          "name": "CLARISH MULTY HANDLE",
+          "image": "https://images.unsplash.com/photo-1574271143515-5cddf8da19be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGFuZGJhZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "price": 1500000,
+          "qty": 4,
+          "stock": 10
+        },
+        {
+          "id": 6,
+          "name": "DIAZ FE MA TUNE",
+          "image": "https://media.istockphoto.com/photos/beige-leather-women-handbag-isolated-on-white-background-picture-id1302787124?b=1&k=20&m=1302787124&s=170667a&w=0&h=e4dIzEN0FBxxR8KnRowKCJzZd-qpshaZAACcY2DWupM=",
+          "price": 1987300,
+          "qty": 1,
+          "stock": 10
         }
       ]
     },
@@ -318,6 +334,38 @@
       "role": "user",
       "cart": [],
       "id": 7
+    },
+    {
+      "username": "Nina12",
+      "email": "nina@gmail.com",
+      "password": "nina123!",
+      "role": "user",
+      "cart": [],
+      "id": 8
+    },
+    {
+      "username": "laura ken",
+      "email": "kenlaura@gmail.com",
+      "password": "laura123!",
+      "role": "user",
+      "cart": [],
+      "id": 9
+    },
+    {
+      "username": "Hariadi",
+      "email": "hariadi@gmail.com",
+      "password": "hari123!",
+      "role": "user",
+      "cart": [],
+      "id": 10
+    },
+    {
+      "username": "khusnia",
+      "email": "khusnia@gmail.com",
+      "password": "khusnia1!",
+      "role": "user",
+      "cart": [],
+      "id": 11
     }
   ],
   "history": [
@@ -384,6 +432,54 @@
         }
       ],
       "id": 3
+    },
+    {
+      "idUser": 9,
+      "username": "laura ken",
+      "time": "27/1/2022 18.48.46",
+      "products": [
+        {
+          "id": 3,
+          "name": "PRADA ONE-HAND",
+          "image": "https://images.unsplash.com/photo-1566150902887-9679ecc155ba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aGFuZGJhZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "price": 1780000,
+          "qty": 2,
+          "stock": 9
+        },
+        {
+          "id": 2,
+          "name": "CLARISH MULTY HANDLE",
+          "image": "https://images.unsplash.com/photo-1574271143515-5cddf8da19be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGFuZGJhZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "price": 1500000,
+          "qty": 2,
+          "stock": 10
+        }
+      ],
+      "id": 4
+    },
+    {
+      "idUser": 10,
+      "username": "Hariadi",
+      "time": "2/2/2022 15.37.33",
+      "products": [
+        {
+          "id": 1,
+          "name": "BAMBOO BAG-TYPE",
+          "image": "https://images.unsplash.com/photo-1554342872-034a06541bad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGJhZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "price": 2500000,
+          "qty": 4,
+          "stock": 13
+        },
+        {
+          "id": 2,
+          "name": "CLARISH MULTY HANDLE",
+          "image": "https://images.unsplash.com/photo-1574271143515-5cddf8da19be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGFuZGJhZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "price": 1500000,
+          "qty": 2,
+          "stock": 10
+        }
+      ],
+      "id": 5
     }
   ]
 }

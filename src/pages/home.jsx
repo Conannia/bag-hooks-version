@@ -88,6 +88,7 @@ class HomePage extends React.Component {
                         <a style={{padding: '10px'}} href="http://instagram.com/conannia17?utm_source=qr"><i class="fab fa-instagram"></i> Instagram</a>
                         <a style={{padding: '10px'}} href="https://twitter.com/khusniafh"><i class="fab fa-twitter"></i> Twitter</a>
                         <a style={{padding: '10px'}} href="mailto:conannia17@gmail.com"><i class="fas fa-envelope-open-text"></i>  conannia17@gmail.com</a>
+                        <a style={{padding: '10px'}} href="https://github.com/Conannia"><i class="fab fa-github"></i> github</a>
 
                     </div>
                 </div>

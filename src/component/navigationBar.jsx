@@ -17,7 +17,7 @@ class NavigationBar extends React.Component {
     render() {
         return (
             <Navbar fixed="top" className="px-5" style={styles.navbar} expand="lg">
-                <Navbar.Brand href="#home">
+                <Navbar.Brand as={Link} to="/">
                     <Image src={LOGO.default} style={styles.image} />
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
